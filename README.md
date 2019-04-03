@@ -1,7 +1,7 @@
 ## PatternRecognitionCourseproject
 Practical assignment required for a course. Requires the training data from the course, but the code might work with also other data that is in a similar format. The code was developed in GNU Octave, and later edited in Matlab, so should work in both, hopefully.
 
-For example, the code was imlemented and tested with the training data in folder:
+For example, the code was implemented and tested with the training data in folder:
 
     /training_data
 

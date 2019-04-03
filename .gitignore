@@ -1,6 +1,4 @@
-# the training data folder
-/training_data
-
-# matlab backup files and other files
-.mat
+# matlab files, excluding the example training data file
+*.mat
+!stroke_X_YYYY.mat
 
