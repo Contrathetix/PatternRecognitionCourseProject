@@ -1,0 +1,6 @@
+# the training data folder
+/training_data
+
+# matlab backup files and other files
+.mat
+
